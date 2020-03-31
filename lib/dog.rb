@@ -7,7 +7,3 @@ class Dog
     this_dogs_name
   end
 end
-
-def name(dog_name)
-  dog_name
-end
